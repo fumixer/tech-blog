@@ -4,7 +4,7 @@ This is a CMS-style blog application using node.js and handlebars.
 
 ### Github : https://github.com/fumixer/tech-blog
 
-### Deployed link:   https://thawing-plains-84636.herokuapp.com
+### Deployed link: https://thawing-plains-84636.herokuapp.com
 
 
 ### Screenshot
