@@ -12,7 +12,8 @@ body, html {
 
 a {
   text-decoration: none;
-  color:#033e12;
+
+  color: #5ca322;
   font-weight: bold;
   transition: color .1s;
 }
@@ -22,7 +23,7 @@ a:hover {
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #5ca322;
   border: 0;
   padding: 1%;
   color: white;
@@ -33,7 +34,7 @@ button {
 }
 
 button:hover {
-  background-color: #34eb56;
+  background-color: #3486eb;
 }
 
 .post-list {
@@ -49,7 +50,8 @@ textarea, input {
 
 textarea:focus, input:focus {
   outline: none;
-  border: 1px solid #033e12;
+
+  border: 1px solid #3486eb;
 }
 
 textarea {
@@ -97,7 +99,9 @@ main {
   padding: 0;
   cursor: pointer;
   text-decoration: none;
-  color: #033e12;
+
+  color: #5ca322;
+
   font-size: 100%;
   font-weight: bold;
   transition: color .1s;
@@ -106,7 +110,9 @@ main {
 
 .btn-no-style:hover {
   background: none;
-  color: #033e12;
+
+  color: #3486eb;
+
 }
 
 .delete-post-btn {

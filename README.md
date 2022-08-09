@@ -11,7 +11,6 @@ This is a CMS-style blog application using node.js and handlebars.
 ![GET request](./asset/)
 
 
-
 ### Technologies
 
 * node.js
