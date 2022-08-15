@@ -8,7 +8,8 @@ This is a CMS-style blog application using node.js and handlebars.
 
 
 ### Screenshot
-![GET request](./asset/)
+![Homepage](./public/images/homepage.png)
+![Dashboard](./public/images/Dashboard.png)
 
 
 ### Technologies
