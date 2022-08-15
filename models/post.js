@@ -43,7 +43,7 @@ Post.init(
       autoIncrement: true
     },
     title: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
       allowNull: false
     },
     post_url: {
