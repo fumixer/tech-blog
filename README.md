@@ -20,4 +20,7 @@ This is a CMS-style blog application using node.js and handlebars.
 * sequelize
 * handlebars
 
+test test test
+
+
 ![licence badge](https://img.shields.io/badge/license-MIT-orange.png)
