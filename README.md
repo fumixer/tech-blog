@@ -6,11 +6,9 @@ This is a CMS-style blog application using node.js and handlebars.
 
 ### Deployed link: https://evening-journey-51361.herokuapp.com/
 
-
 ### Screenshot
 ![Homepage](./public/images/homepage.png)
 ![Dashboard](./public/images/Dashboard.png)
-
 
 ### Technologies
 
