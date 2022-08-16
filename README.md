@@ -4,7 +4,7 @@ This is a CMS-style blog application using node.js and handlebars.
 
 ### Github : https://github.com/fumixer/tech-blog
 
-### Deployed link: https://evening-journey-51361.herokuapp.com/
+### Deployed link: https://evening-falls-21211.herokuapp.com/
 
 ### Screenshot
 ![Homepage](./public/images/homepage.png)
